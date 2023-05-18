@@ -854,3 +854,33 @@ th {
      justify-self: stretch;
    }
    
+   .container-6 {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color:#ef3739;
+
+   }
+
+   .container-6 h1 {
+    
+    font-size: 160px;
+    margin: 0;
+    font-weight: 900;
+    letter-spacing: 20px;
+    background-color: #ffffff;
+   }
+
+   .container a {
+    text-decoration: none;
+    background: #ef3739;
+    color: #ffffff;
+    padding: 12px 24px;
+    display: inline-block;
+    border-radius: 25px;
+    font-size: 14px;
+    text-transform: uppercase;
+    transition: 0.4s;
+   }
